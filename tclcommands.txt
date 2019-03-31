@@ -1,0 +1,5 @@
+synth_design -mode out_of_context -top  ...
+opt_design
+place_design
+route_design 
+report_utilization
